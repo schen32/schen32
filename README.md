@@ -10,7 +10,7 @@ Watch the Demo: https://youtu.be/0UuRBZ-clkg
 
 Link to the Code: https://github.com/schen32/IsometricTerrainGeneration
 
-## Survivor-like game
+## Alien Survivors
 Survivor-like/rouguelike game with modular upgrades and infinite spawning waves of monsters.
 
 Watch the Demo: https://www.youtube.com/watch?v=DgU2aanGgj8
@@ -19,14 +19,14 @@ Watch the Demo: https://www.youtube.com/watch?v=DgU2aanGgj8
 
 Link to the Code: https://github.com/schen32/AlienSurvivors
 
-## Infinite Platformer/Runner
+## Cyber Runner
 Infinite runner game to learn about platformer physics and AABB collisions.
 
 ![image](https://github.com/user-attachments/assets/bc53abf4-0601-4950-8568-7ff890d12c7d)
 
 Link to the Code: https://github.com/schen32/CyberRunner
 
-## Raycaster
+## Raycaster Implementation
 Casting rays and calculating ray intersections with game objects.
 
 ![image](https://github.com/user-attachments/assets/87513422-1608-417a-a47e-ad857e4d6b0f)
